@@ -1,0 +1,11 @@
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/obj/Debug/netcoreapp2.2/MostIsolatedPoint.csprojAssemblyReference.cache
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/obj/Debug/netcoreapp2.2/MostIsolatedPoint.csproj.CoreCompileInputs.cache
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/obj/Debug/netcoreapp2.2/MostIsolatedPoint.AssemblyInfoInputs.cache
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/obj/Debug/netcoreapp2.2/MostIsolatedPoint.AssemblyInfo.cs
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/bin/Debug/netcoreapp2.2/MostIsolatedPoint.deps.json
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/bin/Debug/netcoreapp2.2/MostIsolatedPoint.runtimeconfig.json
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/bin/Debug/netcoreapp2.2/MostIsolatedPoint.runtimeconfig.dev.json
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/bin/Debug/netcoreapp2.2/MostIsolatedPoint.dll
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/bin/Debug/netcoreapp2.2/MostIsolatedPoint.pdb
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/obj/Debug/netcoreapp2.2/MostIsolatedPoint.dll
+/Users/BradleyMorrison/Documents/GitHub/MostIsolatedPoint/obj/Debug/netcoreapp2.2/MostIsolatedPoint.pdb

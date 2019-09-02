@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "7a7367150ab8c1c9ae879637c3d40902b526bb70"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MostIsolatedPoint/1.0.0": {
+        "dependencies": {
+          "KdTree": "1.4.1"
+        },
+        "runtime": {
+          "MostIsolatedPoint.dll": {}
+        }
+      },
+      "KdTree/1.4.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/KdTreeLib.dll": {
+            "assemblyVersion": "1.4.1.0",
+            "fileVersion": "1.4.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MostIsolatedPoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KdTree/1.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yWbb35v/V9y88SLLMUPTlAN3pQEoPhDfZf9PApFnlU4kLtwVQ75U9vW5mW4/alQnLBuLKWBKcy4W5xK95mYsuA==",
+      "path": "kdtree/1.4.1",
+      "hashPath": "kdtree.1.4.1.nupkg.sha512"
+    }
+  }
+}

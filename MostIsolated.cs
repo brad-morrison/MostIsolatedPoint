@@ -24,8 +24,6 @@ namespace MostIsolatedFeatureSearch
 
         static void Main(string[] args)
         {
-            
-
             // get data from file
             string[] fileData = GetData(args);
 
@@ -40,7 +38,6 @@ namespace MostIsolatedFeatureSearch
 
             // output result to console
             Console.WriteLine("\nmost isolated feature - " + mostIsolated.name +"\n");
-
         }
 
         /// <summary>
@@ -72,8 +69,9 @@ namespace MostIsolatedFeatureSearch
         /// <returns> the most isolated node object in terms of distance from any other node</returns>
         public static Node MostIsolated_KdTree(KdTree<double, Node> kdtree, Node[] nodeArray)
         {
-            Node mostIsolated = null; // most isolated node
-            double mostIsolated_double = 0; // highest calculated distance of all nearest neighbours
+            // variables for keeping track of most isolated node
+            Node mostIsolated = null;
+            double mostIsolated_double = 0; 
 
             // for each node
             for (int i=0; i < nodeArray.Length; i++)
@@ -144,7 +142,8 @@ namespace MostIsolatedFeatureSearch
         /// <returns> a list of Node objects </returns>
         public static List<Node> CreateNodes(string[] data)
         {
-            List<Node> nodeList = new List<Node>(); // list to be populated by nodes
+            // list to be populated by nodes
+            List<Node> nodeList = new List<Node>(); 
             
             // for each line in file data
             for (int i = 0; i < data.Length; i++)
