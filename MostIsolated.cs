@@ -193,7 +193,7 @@ namespace MostIsolatedFeatureSearch
                 // find nearest neighbour to current node (node[i])
                 for (int j=0; j<nodeArray.Length; j++)
                 {
-                    if (i != j) //to stop identical nodes being checked against themselves
+                    if (i != j) // to stop identical nodes being checked against themselves
                     {
                         // get distance between node(i) and node(j)
                         distance = GetDist(nodeArray[i].x, nodeArray[i].y, nodeArray[j].x, nodeArray[j].y);
