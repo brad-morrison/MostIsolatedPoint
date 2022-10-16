@@ -1,4 +1,4 @@
-Applicant: Bradley Morrison
+Author: Bradley Morrison
 Contact: bradley_morrison@outlook.com
 LinkedIn: https://www.linkedin.com/in/bradley-morrison-7150bb175/
 Github: https://github.com/brad-morrison
