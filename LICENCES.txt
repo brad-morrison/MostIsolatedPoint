@@ -1,6 +1,6 @@
 The KdTree functionality makes use of the KdTree C# Framework developed by codeandcats (https://github.com/codeandcats/KdTree). The framework is available for use under the MIT license (MIT) pasted below:
 
-The MIT License (MIT)
+The MIT License (MIT).
 
 Copyright (c) 2013 codeandcats
 
