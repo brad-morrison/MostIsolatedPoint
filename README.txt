@@ -1,13 +1,18 @@
 Author: Bradley Morrison
 Contact: bradley_morrison@outlook.com
-LinkedIn: https://www.linkedin.com/in/bradley-morrison-7150bb175/
+LinkedIn: https://www.linkedin.com/in/bradleymorrison173/
 Github: https://github.com/brad-morrison
+Website: bradmorrison.dev
 
 --------------
 
 Program: MostIsolated.cs
 Language: C#
 Framework: .NET Core 2.2
+
+Problem:
+
+Given a list of millions of node coordinates, I developed a system that analyses all points and finds the most isolated point in seconds. The program accepts .txt files with coordinates and outputs the result.
 
 Instructions:
 
